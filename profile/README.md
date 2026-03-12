@@ -8,7 +8,7 @@
 <tr>
 <td width="35%" align="center">
 
-<img src="images/logo-300.png" width="220">
+<img src="images/michael_photo.png" width="220">
 
 </td>
 
