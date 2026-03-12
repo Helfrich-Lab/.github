@@ -3,7 +3,7 @@
 
 <h3 align="center">From single units to large-scale networks</h3>
 
-![My figure](images/log-300.png)
+![My figure](images/logo-300.png)
 
 Welcome to the Helfrich Lab GitHub organization. Here we host the repositories associated with our research projects, with the goal of improving transparency, reproducibility, and accessibility of our work.
 
